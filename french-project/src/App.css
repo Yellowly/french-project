@@ -167,6 +167,9 @@ body{
   margin-top:2%;
   transition: 0.2s;
 }
+.Third-Image{
+  height:45vmin;
+}
 
 .ImageLink{
   position: relative;
@@ -175,6 +178,7 @@ body{
   color:white;
 }
 .ImageLink a{
+  font-size: calc(10px + 2.5vmin);
   color:white;
 }
 .Centered2{

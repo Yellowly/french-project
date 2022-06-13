@@ -60,7 +60,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className='Code'><a href = "">code</a></div>
+      <div className='Code'><a href = "https://github.com/Yellowly/french-project">code</a></div>
       <br/>
     </div>
   );
